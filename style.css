@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#specialText {
+    color: red;
+}
+
+.highlight {
+    background-color: yellow;
+}
